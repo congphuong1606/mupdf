@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\button.xml",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\seek_thumb.xml",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\seek_line.xml",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\seek_line.xml"
+    },
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\page_indicator.xml",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\bundles\\debug\\res\\drawable\\page_indicator.xml"
+    }
+]

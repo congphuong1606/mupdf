@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_chevron_right_white_24dp.png",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_chevron_right_white_24dp.png"
+    },
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_chevron_left_white_24dp.png",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_chevron_left_white_24dp.png"
+    },
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_toc_white_24dp.png",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_toc_white_24dp.png"
+    },
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_search_white_24dp.png",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_search_white_24dp.png"
+    },
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_close_white_24dp.png",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_close_white_24dp.png"
+    },
+    {
+        "merged": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_link_white_24dp.png",
+        "source": "E:\\github-android\\mupdf\\mupdf-android-viewer\\lib\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_link_white_24dp.png"
+    }
+]
