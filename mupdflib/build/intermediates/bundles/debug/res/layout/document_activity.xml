@@ -8,17 +8,19 @@
 	<ViewAnimator
 		android:id="@+id/switcher"
 		android:layout_width="match_parent"
-		android:layout_height="wrap_content"
+		android:background="@color/toolbar"
+		android:layout_height="?android:actionBarSize"
 		android:layout_alignParentTop="true"
 		android:layout_centerHorizontal="true"
 		>
 
 		<LinearLayout
 			android:id="@+id/mainBar"
+			android:layout_gravity="center_vertical"
 			android:layout_width="match_parent"
 			android:layout_height="wrap_content"
 			android:orientation="horizontal"
-			android:background="@color/toolbar"
+
 			>
 
 			<TextView
@@ -133,7 +135,6 @@
 			android:paddingRight="16dp"
 			android:paddingTop="12dp"
 			android:paddingBottom="8dp"
-			android:background="@color/toolbar"
 			android:thumb="@drawable/seek_thumb"
 			android:progressDrawable="@drawable/seek_line"
 			/>
@@ -144,10 +145,10 @@
 			android:layout_height="wrap_content"
 			android:layout_above="@+id/pageSlider"
 			android:layout_centerHorizontal="true"
-			android:layout_marginBottom="16dp"
-			android:background="@drawable/page_indicator"
+			android:layout_marginBottom="10dp"
+			android:text="16"
 			android:textSize="16dp"
-			android:textColor="@android:color/white"
+			android:textColor="#000"
 			/>
 
 	</RelativeLayout>

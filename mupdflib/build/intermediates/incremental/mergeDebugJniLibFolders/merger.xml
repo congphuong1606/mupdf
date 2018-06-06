@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\github-android\MyApplication\mupdflib\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\github-android\MyApplication\mupdflib\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\Win\github-android\mupdf\mupdflib\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\Win\github-android\mupdf\mupdflib\src\debug\jniLibs"/></dataSet></merger>

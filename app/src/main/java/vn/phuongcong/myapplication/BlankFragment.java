@@ -238,9 +238,9 @@ public class BlankFragment extends Fragment {
         // Set the file-name text
         String docTitle = core.getTitle();
         if (docTitle != null)
-            mFilenameView.setText(docTitle);
+            mFilenameView.setText("Minna No Nihongo I");
         else
-            mFilenameView.setText(mFileName);
+            mFilenameView.setText("Minna No Nihongo I");
 
         // Activate the seekbar
         mPageSlider.setOnSeekBarChangeListener(new SeekBar.OnSeekBarChangeListener() {

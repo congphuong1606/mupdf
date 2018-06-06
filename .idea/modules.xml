@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://E:\Win\github-android\mupdf\MyApplication.iml" filepath="E:\Win\github-android\mupdf\MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Win\github-android\mupdf\app\app.iml" filepath="E:\Win\github-android\mupdf\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mupdf.iml" filepath="$PROJECT_DIR$/.idea/mupdf.iml" />
       <module fileurl="file://$PROJECT_DIR$/mupdflib/mupdflib.iml" filepath="$PROJECT_DIR$/mupdflib/mupdflib.iml" />
+      <module fileurl="file://E:\Win\github-android\mupdf\mupdflib\mupdflib.iml" filepath="E:\Win\github-android\mupdf\mupdflib\mupdflib.iml" />
     </modules>
   </component>
 </project>

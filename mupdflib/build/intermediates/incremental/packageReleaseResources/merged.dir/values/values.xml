@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="page_indicator">#C0202020</color>
-    <color name="toolbar">#C0202020</color>
+    <color name="page_indicator">#d83aa2d6</color>
+    <color name="toolbar">#d83aa2d6</color>
     <string name="cancel">Cancel</string>
     <string name="cannot_open_document">Cannot open document</string>
     <string name="cannot_open_document_Reason">Cannot open document: %1$s</string>
